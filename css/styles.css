@@ -119,6 +119,12 @@ section.wrapper .shopping-list .delete {
     float: right;
 }
 
+section.wrapper .shopping-list .ticked {
+    text-decoration: line-through;
+    color: grey;
+    background-color: aqua;
+}
+
 section.wrapper .clear-all {
     text-align: center;
 }
